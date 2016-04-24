@@ -1,0 +1,8 @@
+Hangman.MainActivity, Hangman;md5904511b584a7e58550f5a9d58b3a527c.MainActivity
+Hangman.MainActivity, Hangman, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5904511b584a7e58550f5a9d58b3a527c.MainActivity
+Hangman.MainActivity;md5904511b584a7e58550f5a9d58b3a527c.MainActivity
+hangman.MainActivity;md5904511b584a7e58550f5a9d58b3a527c.MainActivity
+R.GameActivity, Hangman;md5379260146ac2c259064918c62483103f.GameActivity
+R.GameActivity, Hangman, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5379260146ac2c259064918c62483103f.GameActivity
+R.GameActivity;md5379260146ac2c259064918c62483103f.GameActivity
+r.GameActivity;md5379260146ac2c259064918c62483103f.GameActivity
